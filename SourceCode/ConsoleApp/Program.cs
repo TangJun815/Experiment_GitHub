@@ -7,6 +7,8 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //develop v1.0.1
+            Console.WriteLine("develop v1.0.1");
         }
     }
 }

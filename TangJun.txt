@@ -1,4 +1,9 @@
+测试hot fix for master branch.
 222tj01
 2
 3
+<<<<<<< HEAD
 实验分支
+=======
+测试分支2
+>>>>>>> master
